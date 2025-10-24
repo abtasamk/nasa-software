@@ -143,7 +143,7 @@ const Contact = () => {
         className="mt-10 text-zinc-500"
       >
         <Clock className="inline-block text-red-600 mr-2" size={18} />
-        <span>Available Monday – Friday | 9:00 AM – 5:00 PM</span>
+        <span>Available Monday – Friday | 5:00 PM – 9:00 AM</span>
       </motion.div>
     </section>
   );
