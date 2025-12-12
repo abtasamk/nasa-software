@@ -72,7 +72,7 @@ const Hero = ({ onGetStarted }) => {
         transition={{ delay: 0.6 }}
         className="mt-6 text-lg text-gray-300 max-w-2xl relative z-10"
       >
-        We design, develop, and deliver software solutions that make lasting impact.
+        Design, develop, and deliver software solutions that make lasting impact.
       </motion.p>
 
       <motion.button

@@ -52,7 +52,7 @@ const Navbar = ({ onNavClick }) => {
     { label: "Industries", id: "industries" },
     { label: "Case Studies", id: "casestudies" },
     { label: "Clients", id: "clients" },
-    { label: "Our Team", id: "team" },
+    { label: "Provider", id: "team" },
     { label: "Contact", id: "contact" },
   ];
 
