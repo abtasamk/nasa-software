@@ -19,7 +19,7 @@
 //       className="fixed top-0 left-0 w-full z-50 bg-black/80 backdrop-blur-md px-6 py-4 flex justify-between items-center"
 //     >
 //       {/* Logo */}
-//       <h1 className="text-2xl font-bold text-red-600">ٱلنساء</h1>
+//       <h1 className="text-2xl font-bold text-red-600">النساء</h1>
 
 //       {/* Navigation Links */}
 //       <ul className="flex gap-6 text-gray-300">
@@ -69,7 +69,7 @@ const Navbar = ({ onNavClick }) => {
       className="fixed top-0 left-0 w-full z-50 bg-black/80 backdrop-blur-md px-6 py-4 flex justify-between items-center"
     >
       {/* Logo */}
-      <h1 className="text-2xl font-bold text-red-600">ٱلنساء</h1>
+      <h1 className="text-2xl font-bold text-red-600">النساء</h1>
 
       {/* Desktop Links */}
       <ul className="hidden md:flex gap-6 text-gray-300">

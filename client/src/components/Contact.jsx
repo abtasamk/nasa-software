@@ -102,7 +102,7 @@ const Contact = () => {
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
+          transition={{ duration: 0.5 }} 
           className="bg-zinc-900 p-6 rounded-2xl border border-zinc-800 hover:border-red-600 transition"
         >
           <Mail className="text-red-600 mb-3" size={28} />
@@ -131,7 +131,7 @@ const Contact = () => {
         >
           <MapPin className="text-red-600 mb-3" size={28} />
           <h3 className="text-xl font-semibold mb-2">Address</h3>
-          <p className="text-zinc-400">Bannu Khyber Pakhtunkhwa</p>
+          <p className="text-zinc-400">Bannu Township Link Road Chowk, Khyber Pakhtunkhwa</p>
           <p className="text-zinc-400">Pakistan</p>
         </motion.div>
       </div>
